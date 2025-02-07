@@ -1,2 +1,2 @@
 #!/bin/bash
-mv 7-movthatfile /my_first_directory
+mv 7-movethatfile /my_first_directory
