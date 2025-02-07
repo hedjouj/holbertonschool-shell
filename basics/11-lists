@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a /holbertonschool-shell /boot -l
+ls -a -l /holbertonschool-shell/boot
