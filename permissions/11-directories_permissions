@@ -1,2 +1,2 @@
 #!/bin/bash
-find . ugo+x
+chmod . -r --x--x--x
