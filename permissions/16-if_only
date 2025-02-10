@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ "$(stat --format="%U" hello)" = "guillaume" ]; then chown vincent:hello
+find hello=guillaume then chown vincent:hello
