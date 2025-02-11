@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -R *.js -type f
+find . *.js -type f
