@@ -1,2 +1,2 @@
 #!/bin/bash
-tree -a -maxdepth 1
+tree -a | wc -l
