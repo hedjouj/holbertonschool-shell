@@ -1,2 +1,2 @@
 #!/bin/bash
-number_of_directories=$(find . -type d -a | wc -l)
+find -type d . | wc -l
