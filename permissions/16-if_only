@@ -1,2 +1,2 @@
 #!/bin/bash
-find hello=guillaume then chown vincent:hello
+chown vincent:guillaume hello -0 guillaume
